@@ -75,7 +75,7 @@ Set cookie validation key in `config/web.php` file to some random secret string:
 ],
 ```
 
-You can then access the application through the following URL:
+You can then access the application through the following URL
 
 ~~~
 http://localhost/basic/web/
